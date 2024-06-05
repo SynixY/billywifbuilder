@@ -2,11 +2,11 @@ import React, { useEffect, useState } from "react";
 import { Parallax, ParallaxLayer } from "@react-spring/parallax";
 
 export default function Homepage() {
-  const contractadd = "";
-  const tokename = "Billy Wif Builder";
-  const tokensymbol = "$BWIFB";
-  const telegramlink = "https://t.me/billywifbuilder";
-  const twitterlink = "https://x.com/billywifbuilder";
+  const contractadd = "g";
+  const tokename = "Billy";
+  const tokensymbol = "$BILLY";
+  const telegramlink = "";
+  const twitterlink = "";
   const [OffsetY, setOffsetY] = useState(0);
   const [OffsetX, setOffsetX] = useState(0);
 
